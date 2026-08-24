@@ -1,6 +1,5 @@
-# Wi-Fi Sensing Site E Experiments
+# Wi-Fi sensing data: site E
 
-Privacy-safe publication surface for the opaque public site alias `site-e`.
-No dataset has been authorized for export. Exact location identity, network
-configuration, device identifiers, and private session identifiers must never
-be stored in this repository.
+No dataset from anonymized `site-e` has been authorized for public export.
+This repository therefore contains no measurements. Private location, network,
+device, session, and configuration data must not be added here.

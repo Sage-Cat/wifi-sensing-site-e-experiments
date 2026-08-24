@@ -1,4 +1,12 @@
+# Local and reproducible derivatives
+**/analysis/
+**/derived/
+**/processed/
+**/results/
+**/reports/
+out/
+.cache/
+.tmp/
 __pycache__/
 *.py[cod]
-.pytest_cache/
-out/
+.DS_Store
